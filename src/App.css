@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.App{
+  max-width: 400px;
+  margin: auto;
+ width: 90vw;
+ background-color: cornsilk;
+ text-align: center;
+}
+
+
+
+.abc{
+  padding-top: 10px;
+  align-content: center;
+  
+}
+
+
